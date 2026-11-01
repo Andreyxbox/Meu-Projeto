@@ -12,13 +12,7 @@ CSS3: estilização e organização visual.
 JavaScript: funcionalidades e interatividade.
 Git: controle de versão.
 GitHub: armazenamento e compartilhamento do projeto.
-Como executar o projeto
-Baixe ou clone este repositório.
-Abra a pasta do projeto.
-Localize o arquivo index.html.
-Abra o arquivo em um navegador de internet.
-Utilize a lista para adicionar, concluir e excluir tarefas.
-Objetivo
+Objetivo:
 Demonstrar os conhecimentos adquiridos durante o curso, aplicando conceitos de desenvolvimento web com HTML, CSS e JavaScript.
 
 Autor
