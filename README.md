@@ -2,18 +2,23 @@ Minha Lista de Tarefas
 Autor: Andrey
 
 Descrição do projeto
-O projeto Minha Lista de Tarefas é uma aplicação web desenvolvida para auxiliar na organização das atividades diárias.
+O projeto Minha Lista de Tarefas é uma aplicação web desenvolvida para ajudar na organização das atividades diárias.
 
-O sistema permite adicionar tarefas, marcar atividades como concluídas e excluir tarefas que não são mais necessárias.
+O usuário pode adicionar tarefas, marcar atividades como concluídas e excluir tarefas.
 
 Tecnologias utilizadas
-HTML5: estrutura da página.
-CSS3: estilização e organização visual.
-JavaScript: funcionalidades e interatividade.
-Git: controle de versão.
-GitHub: armazenamento e compartilhamento do projeto.
-Objetivo:
-Demonstrar os conhecimentos adquiridos durante o curso, aplicando conceitos de desenvolvimento web com HTML, CSS e JavaScript.
+HTML5
+CSS3
+JavaScript
+Git
+GitHub
+Como executar o projeto
+Acesse o repositório no GitHub.
+Baixe os arquivos do projeto.
+Extraia a pasta, caso tenha baixado um arquivo ZIP.
+Abra o arquivo index.html em um navegador.
+Objetivo
+Demonstrar os conhecimentos adquiridos durante o curso, utilizando HTML, CSS e JavaScript.
 
 Autor
 Andrey.
